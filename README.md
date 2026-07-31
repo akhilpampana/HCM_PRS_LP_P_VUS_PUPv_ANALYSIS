@@ -28,7 +28,7 @@ The provided scripts serve as a static analytical record and reference implement
 
 ## Citation
 If you use this pipeline or data in your research, please cite our corresponding publication: 
-Bal et al, 2026: Polygenic Risk Modifies Penetrance and Outcomes in Hypertrophic Cardiomyopathy: Insights from a US-Based Multi-Ancestry Cohort
+Bal et al, 2026: A multi-ancestry polygenic risk score improves stratification in patients with hypertrophic cardiomyopathy
 
 ## Contact
 For questions, feedback, or issues regarding this repository, please contact Akhil Pampana at the University of Alabama at Birmingham.
